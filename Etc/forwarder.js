@@ -1,8 +1,8 @@
 // 替换成你想镜像的站点
-const upstream = 'example.com'
+const upstream = 'tangodown2.herokuapp.com'
  
 // 如果那个站点有专门的移动适配站点，否则保持和上面一致
-const upstream_mobile = 'example.com'
+const upstream_mobile = 'tangodown2.herokuapp.com'
  
 // 你希望禁止哪些国家访问
 const blocked_region = []
